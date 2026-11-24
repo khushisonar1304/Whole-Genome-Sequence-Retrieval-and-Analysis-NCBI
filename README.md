@@ -1,0 +1,1 @@
+# Whole-Genome-Sequence-Retrieval-and-Analysis-NCBI
